@@ -1,3 +1,3 @@
 # langchain-chat
 
-my notes from https://learn.deeplearning.ai/langchain-chat-with-your-data/
+Document Loaders, Document Splitting, Vector stores and embeddings, Retrieval, Question Answering, Chat.
